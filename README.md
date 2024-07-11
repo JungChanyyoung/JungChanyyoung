@@ -1,7 +1,7 @@
 <div>
-  <h3 style="background-color:#fff5b1">  
+  <h3 style="background-color:#fff5b1"> Hi There
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
-    Hi There
+
   </h3>
 </div>
 
